@@ -1,0 +1,10 @@
+GitHub Repository
+https://github.com/SAMARTH-04/EtharaAI
+Frontend (Vercel)
+https://ethara-ai-green.vercel.app/
+Backend API (Render)
+https://etharaai-jmd2.onrender.com
+Backend API Docs (Swagger)
+https://etharaai-jmd2.onrender.com/docs
+Docker Hub Image (Backend)
+https://hub.docker.com/r/samarth04docker/ethara-backend
